@@ -1,40 +1,106 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("../images/bg33.png");
-    background-size: cover;
-    color: whitesmoke;
-}
-h1{
-    text-align: center;
-    color: white;
+    color: black;
     margin: 0px;
     padding: 0px;
 }
-ul{
+h1{
+    text-align: center;
+    color: black;
+    margin: 0px;
+    padding: 0px;
+}
+.nav-item{
     margin: 0px;
     padding: 0px;
     list-style: none;
 }
- ul li{
+  .nav-link li{
     float: left;
     width: 200px;
     height: 40px;
-    background-color: black;
     opacity: .8;
     line-height: 40px;
     text-align: center;
     font-size: 20px;
     text-decoration: none;
-    color: whitesmoke;
-    display: block;
-    margin: 3px;
+    color: burlywood;
+    display: inline;
+    margin: 0px;
 }
 ul li a:hover{
-    background-color: blueviolet;
+    background-color: blue;
 }
 ul li ul li{
     display: none;
 }
 ul li:hover ul li{
-    display: block;
+    display: inline;
+}
+footer{
+    height: 120px;
+    font-size: 20px;
+}
+.media-blockquote{
+    text-align: center;
+}
+media-blockquote.li {
+    display: none;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+}
+ul i{
+    font-size: 150%;
+    height: 10px;
+    margin: 0%;
+    padding: 0%;
+    color: grey;
+    display: inline-block;
+}
+#gallery{
+    clear: both;
+    column-gap: 0;
+    column-count: 2;
+    line-height: 0;
+}
+#container{
+    width: 960px;
+    margin: 0px auto
+}
+#left-column{
+    width: 600px;
+    float: left;
+}
+#right-column{
+    width: 350px;
+    float: left;
+    background: blue;
+}
+@media screen and (max-width:950px){
+    #container{
+        width: 100%;
+    }
+    #left-column{
+        width: 70%;
+    }
+    #right-column{
+        width: 30%;
+    }
+    img{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 640px){
+ #left-column{
+        width: 1000%;
+    }
+    #right-column{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 320px){
+ #container{
+     width: 320px;
+ }
 }
