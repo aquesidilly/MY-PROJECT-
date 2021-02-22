@@ -7,12 +7,12 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="gallery.html">
     <title>MY PROJECT</title>
 </head>
 <body>
+<header>    
 <!--Navbar-->
-<nav class="navbar navbar-dark bg-dark lighten-4">
+ <nav class="navbar navbar-dark bg-dark lighten-4">
     <!-- Navbar brand -->
     <a class="navbar-brand" href="#">EMMAROSS INTERNATIONAL</a>
     <!-- Collapse button -->
@@ -23,16 +23,16 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent1">
         <!-- Links -->
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
             <li class="nav-item">
-                <a class="nav-link" id="active" href="gallery.html">Gallery</a>
+                <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="gallery.html">Gallery</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="brands.html">Brands</a>
                   <ul>  
-                    <li><a href="#">Types</a><li>
+                    <li><a href="#">Types</a></li>
                     <li><a href="#">Sizes</a></li>
                   </ul>  
             </li>
@@ -43,8 +43,10 @@
                     <li><a href="#">Map</a></li>
                   </ul>  
             </li>
-        </ul>               
-<section id="gallery">
+        </ul>
+    </div>
+</header>                          
+<section>
         <img src="images/aluminium sink.jpg" width="128" height="128">
         <img src="images/sink.jpg" width="128" height="128">
         <img src="images/ceramic sink.jpg" style="width:128px;height:128px;">
@@ -52,7 +54,18 @@
         <img src="images/sbath.jpg" width="128" height="128">
         <img src="images/watercloset.jpg" width="128" height="128">
         <img src="images/bathroom set.jpg" width="128" height="128">
-</section>  
+</section>
+  <footer>
+       <div class="media-blockquote">
+         <ul>
+            <li><a href="https://www.facebook.com" target="_blank" class=""><i class="fab fa-facebook"></i></a></li>
+            <li><a href="https://www.snapchat.com" target="_blank" class=""><i class="fab fa-snapchat"></i></a></li>
+            <li> <a href="https://www.whatsapp.com" target="_blank" class=""><i class="fab fa-whatsapp"></i></a></li>
+            <li><a href="https://www.instagram.com" target="_blank" class=""><i class="fab fa-instagram"></i></a></li>
+         </ul>
+       </div> 
+    </footer>
+<div>    
     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
     <script  defer src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
