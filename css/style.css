@@ -101,6 +101,7 @@ gallery img{
 }
 footer{
     padding: 15%;
+    margin: 10%;
     height: 120px;
     font-size: 20px;
     font-weight: 100;
@@ -118,8 +119,8 @@ footer{
 .media-blockquote i{
     font-size: 150%;
     height: 10px;
-    margin: 5%;
-    padding: 5%;
+    margin: 10%;
+    padding: 10%;
     color: gray;
     display: inline-block;
     list-style: none;
