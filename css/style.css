@@ -15,7 +15,7 @@ p{
     color: black;
     margin: 5px;
     padding: 5px;
-    border: 1px solid #f475f4;
+    border: 1px solid;
     column-gap: 5px;
     column-count: inherit;
     border-top: 2px;
@@ -44,7 +44,7 @@ p{
     box-sizing: border-box;
 }
 ul li a:hover{
-    background-color: gray;
+    background-color: none;
 }
 ul li ul li{
     display: none;

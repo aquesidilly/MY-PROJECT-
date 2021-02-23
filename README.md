@@ -1,11 +1,11 @@
 ### EMMAROSS INTERNATIONAL
 ## Milestone Project 1
  * The aim of this project is to create a static front end site of at least 3 pages or sections using the technologies I have learned so far such as, HTML, Css, and optional Bootstrap or other libraries. The aim of the site is to present useful information in an ordered way to a set of users.
- * I have decided to created a website for a fictional hotel. I have utilised all the elements I have learned in the previous modules to create this page and used principals of good user experience to create a responsive, well designed functional website.
- * My site consists of a landing page to introduce the hotel and the section pages. The site then has 3 pages, one for the hotel guest rooms, one for the hotel food and bar options, and the final for the spa and leisure options. There is also a booking form section for potential guest to fill out to book rooms.
-Live project
-View the live project here.
-Screenshots
+ * I have decided to created a website for a marketing household equipments. I have utilised all the elements I have learned in the previous modules to create this page and used principals of good user experience to create a responsive, well designed functional website.
+ * My site consists of a landing page to introduce the the marketing company and the gallery page. The site then has 2 pages, one for the homepage which shows the goods or items in stock and the gallery to showcase the items the marketing company sells.
+## Live project
+ * View [this project is live here](https://aquamarine-tiglon-f3226h12.ws-eu03.gitpod.io/#/workspace/MY-PROJECT-).
+## Screenshots
 Landing page screenshot
 
 Section page screenshot
@@ -65,24 +65,23 @@ Table of contents generated with markdown-toc
 
  ## Design
  # Colour Scheme
-  * I used two main colours throughout this site, a stone colour #f5f4ef, and a dark green colour #052d26. I alternated the text and background colour between my two main colours to create defined sections when scrolling and to create a slight monochrome feel.
-  * I also used a light green colour #108f79 for my hover effect on the links to show the user that they element is a link.
+  * I used two main colours throughout this site, a gray and black. I alternated the text and background colour between my two main colours to create defined sections when scrolling and to create a slight monochrome feel.
+  * I also used a blue for my hover effect on the links to show the user that they element is a link.
  # Typography
-  * I wanted to create a strong look with my typography so i used a very graphic font Monsterrat Subrayada in large size for my headings, and Raleway for all other text.
+  * I wanted to create a strong look with my typography so i used a very graphic font Arial in large size for my headings, and Helvetica for all other text.
   * Both fonts where imported to my css stylesheet from Google Fonts.
   * I used sans-serif as a fall-back font in case for any reason my fonts were not imported.
  # Imagery
-  * Imagery was very important to me and I choose images that conveyed the feel of the hotel I wanted to present and placed them throughout the site.
+  * Imagery was very important to me and I choose images that conveyed the feel of the marketing company I wanted to present and placed them throughout the site.
   * Each section consists of a main title image that conveys to the user what the section is about.
-  * I then placed images of the guest rooms, the restaurants and the spa and gym throughout the site so the user can see what the hotel is like.
-  * I used two sources for my images.
+  * I used one source for my images.
     - Unsplash
     - Pexels
   * I also placed video in each of the section pages with controls so the user can take a room tour, see some food being prepared for the resturant and see a treatment in the spa.
   * All video was sourced from.
     - Pexels
  # Icons
-  * I used directional arrow icons from Font Awsome to encourage users to scroll and to show links to a seperate section page.
+  * I used directional arrow icons from Font Awesome to encourage users to scroll and to show links to a seperate section page.
  ## Features
  # Current Features
   * Reponsive
