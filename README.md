@@ -6,7 +6,7 @@
 ## Live project
  * Project is live here [View](https://aquamarine-tiglon-f3226h12.ws-eu03.gitpod.io/#/workspace/MY-PROJECT-).
 ## Screenshots
- * ![](images/my%20Screenshot(4).png) 
+ * ![](images/Screenshot%20(4).png) 
 All screen shots created using Am I responsive
 ## Table of contents
  * User experience
