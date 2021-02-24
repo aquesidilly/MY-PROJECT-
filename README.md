@@ -4,14 +4,9 @@
  * I have decided to created a website for a marketing household equipments. I have utilised all the elements I have learned in the previous modules to create this page and used principals of good user experience to create a responsive, well designed functional website.
  * My site consists of a landing page to introduce the the marketing company and the gallery page. The site then has 2 pages, one for the homepage which shows the goods or items in stock and the gallery to showcase the items the marketing company sells.
 ## Live project
- * View [this project is live here](https://aquamarine-tiglon-f3226h12.ws-eu03.gitpod.io/#/workspace/MY-PROJECT-).
+ * Project is live here [View](https://aquamarine-tiglon-f3226h12.ws-eu03.gitpod.io/#/workspace/MY-PROJECT-).
 ## Screenshots
-Landing page screenshot
-
-Section page screenshot
-
-Booking-form screenshot
-
+ * ![](images/my%20Screenshot(4).png) 
 All screen shots created using Am I responsive
 ## Table of contents
  * User experience
