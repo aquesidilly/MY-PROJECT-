@@ -155,7 +155,7 @@ Table of contents generated with markdown-toc
     - CSS file passed Results
  # Know issues
 
-   * When I passed my booking form HTML code through the validator .
+   * When I passed homepage HTML code through the validator .
  # Further Testing
  Once finished I tested the site across different screen sizes and different browsers.
 
